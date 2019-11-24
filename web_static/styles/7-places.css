@@ -1,0 +1,22 @@
+article {
+    display: flex;
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    display: inline-block; 
+    text-align: center;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    justify-content: space-around;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.places {
+    font-size: 30px; 
+}
